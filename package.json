@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-no-dupe-literals",
+  "version": "0.0.1",
+  "description": "ESLint rules for identifying duplicate string literals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Zachary Lumpkins <zdoc01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.7.0"
+  }
+}
